@@ -1,0 +1,7 @@
+1, Nguyen Van A, 1992/10/12, 112 Nguyen Van Thoai, Nghe An, 0978222456, a@gmail.com, 1, Java, Cty Toan Cau Xanh, None, None, None, None, None, None, None
+2, Tran Van B, 01/05/1990, 78 Pham Van Dong, Quang Tri, 0946778524, ew@yahoo.com, None, None, None, 7/2015, Gioi, DH Bach Khoa DN, None, None, None, None
+1, Le Bao Ngan, 07/19/2005, Nam Tu Liem, Ha Noi, 0378222456, a@gmail, 3, C#, NCC+, None, None, None, None, None, None, None
+3, Nguyen Hung, 12/19/2005, Tran Hung Dao, Quy Nhon, 08965747859, nguyentanhung413@gmail.com, None, None, None, None, None, None, Front-End Developer, 2, Quy Nhon University, 2027
+2, Nguyen Hai Bang, 08/08/2005, Bac Tu Liem, Ha Noi, 0789877656, ew@yahoo.com, None, None, None, 7/2015, Gioi, DH Duy Tan, None, None, None, None
+3, Nguyen Truc Anh, 33/12/2002, Ha Nam, Phu Ly, 0333377656, ew@yahoo..com, None, None, None, None, None, None, Bussiness Analyst, 3, University of Cambridge, 2030
+3, Bui Nguyen Kieu Oanh, 2004/01/01, Ba Dinh, Ha Noi, 01, ew@yahoo.com, None, None, None, None, None, None, Data Analyst, 2, FTU University, 2033

@@ -1,0 +1,8 @@
+Dòng 2: Sai định dạng ngày tháng năm sinh
+Dòng 3: Sai định dạng ngày tháng năm sinh
+Dòng 3: Sai định dạng địa chỉ email
+Dòng 4: Sai định dạng ngày tháng năm sinh
+Dòng 5: Sai định dạng ngày tháng năm sinh
+Dòng 6: Sai định dạng ngày tháng năm sinh
+Dòng 6: Sai định dạng địa chỉ email
+Dòng 7: Sai định dạng số điện thoại
